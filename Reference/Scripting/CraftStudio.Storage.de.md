@@ -90,5 +90,3 @@ end )
 
 
 Übersetzt von Luca Gronmaier, am 12.09.2015 um 2.:50Uhr
-aus dem Orginal Englischem:
-http://learn.craftstud.io/Reference/Scripting/CraftStudio.Storage von Élisée@SparklinLabs

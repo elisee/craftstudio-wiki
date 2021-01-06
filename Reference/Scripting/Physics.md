@@ -3,7 +3,7 @@
 ----
 ## Setting the gravity
 
-The gravity force isn't a property of each body, it's global, so you can set it using [CraftStudio.Physics.SetGravity](CraftStudio.Physics).
+The gravity force isn't a property of each body, it's global, so you can set it using [CraftStudio.Physics.SetGravity](CraftStudio.Physics.md).
 
 ----
 ## Physics:SetBodyType

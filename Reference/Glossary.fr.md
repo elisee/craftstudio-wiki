@@ -8,7 +8,7 @@ Définitions de différents mots rencontrés dans CraftStudio
 
 Un **serveur** CraftStudio est un logiciel que l'on peut exécuter sur un ordinateur pour héberger des projets. Quand vous démarrez CraftStudio, un serveur pour vos propres projets démarre automatiquement (à moins que vous ne l'ayiez désactiver dans les Options).
 
-Quand vous souhaitez créer un nouveau jeu, il faut [créer un projet sur un serveur](../Tutorials/Introduction). Un **projet** possède, entre autres, un nom, description, type (jeu ou film), tableau blanc, des membres et des ressources.
+Quand vous souhaitez créer un nouveau jeu, il faut [créer un projet sur un serveur](../Tutorials/Introduction.md). Un **projet** possède, entre autres, un nom, description, type (jeu ou film), tableau blanc, des membres et des ressources.
 
 Les **ressources** sont les modèles (personnages / objets faits à base de blocs), animations, maps, sets de bloc, scènes, scripts, sons ou polices de caractères.
 

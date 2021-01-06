@@ -21,7 +21,7 @@ Returns a new ray.
 Ray:IntersectsPlane( --[[ plane (Plane) ]] )
 ```
 
-Returns the distance of intersection of the ray with the specified [Plane](http://wiki.craftstud.io/Reference/Scripting/Math/Plane) (or ```nil``` if there is no intersection).
+Returns the distance of intersection of the ray with the specified [Plane](Plane.md) (or ```nil``` if there is no intersection).
 
 ----
 ## Ray:IntersectsModelRenderer
@@ -31,7 +31,7 @@ Returns the distance of intersection of the ray with the specified [Plane](http:
 Ray:IntersectsModelRenderer( --[[ model renderer (ModelRenderer) ]] )
 ```
 
-Returns the distance of intersection of the ray with the specified [ModelRenderer](http://wiki.craftstud.io/Reference/Scripting/ModelRenderer) (or ```nil``` if there is no intersection) and the normal of the hit face.
+Returns the distance of intersection of the ray with the specified [ModelRenderer](../ModelRenderer.md) (or ```nil``` if there is no intersection) and the normal of the hit face.
 
 ### Example: **Computing the hit position**
 
@@ -58,7 +58,7 @@ end
 Ray:IntersectsMapRenderer( --[[ map renderer (MapRenderer) ]])
 ```
 
-Returns the distance of intersection of the ray with the specified [MapRenderer](http://wiki.craftstud.io/Reference/Scripting/MapRenderer) (or nil if there is no intersection). Additional return values are the normal of the hit face, and the locations in the map of the hit and adjacent map blocks.
+Returns the distance of intersection of the ray with the specified [MapRenderer](../MapRenderer.md) (or nil if there is no intersection). Additional return values are the normal of the hit face, and the locations in the map of the hit and adjacent map blocks.
 
 **Warning**: If your ray is at the exact intersection of two map blocks, it will not reliably return the hit distance. As a workaround, you can try avoiding perfectly aligned rays or shooting precisely between two blocks. This should be fixed in a future update.
 
@@ -88,4 +88,4 @@ end
 Ray:IntersectsTextRenderer( --[[ text renderer (TextRenderer) ]])
 ```
 
-Returns the distance of intersection of the ray with the specified [TextRenderer](http://wiki.craftstud.io/Reference/Scripting/TextRenderer) (or ```nil``` if there is no intersection) and the normal of the hit face.
+Returns the distance of intersection of the ray with the specified [TextRenderer](../TextRenderer.md) (or ```nil``` if there is no intersection) and the normal of the hit face.

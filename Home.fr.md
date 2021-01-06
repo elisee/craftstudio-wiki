@@ -18,38 +18,33 @@ Si vous souhaitez proposer des modifications majeures ou si vous avez des commen
 
 ## Pour débuter
 
-  * [Bien débuter avec CraftStudio](Tutorials/Introduction) — Familiarisez-vous avec le fonctionnement de CraftStudio et créez votre premier projet
-  * [Publier votre jeu CraftStudio](Tutorials/Publishing) — Exportez & uploadez vos jeux pour que le monde y joue
+  * [Bien débuter avec CraftStudio](Tutorials/Introduction.md) — Familiarisez-vous avec le fonctionnement de CraftStudio et créez votre premier projet
+  * [Publier votre jeu CraftStudio](Tutorials/Publishing.md) — Exportez & uploadez vos jeux pour que le monde y joue
 
 ## Scripting visuel
 
-  * [Créer un space shooter](Tutorials/Space_shooter) — Créez votre premier jeu et découvrez les modèles, le déplacement et les bases du scripting, les effets sonores et plus encore
+  * [Créer un space shooter](Tutorials/Space_shooter.md) — Créez votre premier jeu et découvrez les modèles, le déplacement et les bases du scripting, les effets sonores et plus encore
 
 ## Scripting Lua
 
-  * [Créer un jeu de tir à la première personne](Tutorials/FPS) — Orienter la vue avec la souris, lancer des rayons pour toucher des objets
-  * [Créer un jeu multijoueur à la Bomberman](Tutorials/Blast_Turtles) — Craftez votre premier jeu multijoueur en ligne
+  * [Créer un jeu de tir à la première personne](Tutorials/FPS.md) — Orienter la vue avec la souris, lancer des rayons pour toucher des objets
+  * [Créer un jeu multijoueur à la Bomberman](Tutorials/Blast_Turtles.md) — Craftez votre premier jeu multijoueur en ligne
 
 ----
 
 # Référence
 
-  * [Glossaire](Reference/Glossary) — Définitions de différents mots rencontrés dans CraftStudio
-  * **[Référence Scripting](Reference/Scripting)** — Documentation pour tous les blocs et fonctions de scripting
-  * [Référence Scripting Visuel](Reference/Visual_Scripting) — Documentation consacrée au scripting visuel
-  * [Vue d'ensemble du moteur](Reference/Engine) — Boucle de jeu et autres informations sur le fonctionnement interne de CraftStudio
-  * [Gestion de serveur](Reference/Server) — Commandes serveur et information de configuration
-  * [Formats de fichier](Reference/File_Formats) — Documentation pour les formats de fichier CraftStudio
-  * [Export de modèles](Reference/Model_Export) — Exporter des modèles pour les utiliser dans d'autres outils ou jeux 3D
+  * [Glossaire](Reference/Glossary.md) — Définitions de différents mots rencontrés dans CraftStudio
+  * **[Référence Scripting](Reference/Scripting.md)** — Documentation pour tous les blocs et fonctions de scripting
+  * [Référence Scripting Visuel](Reference/Visual_Scripting.md) — Documentation consacrée au scripting visuel
+  * [Vue d'ensemble du moteur](Reference/Engine.md) — Boucle de jeu et autres informations sur le fonctionnement interne de CraftStudio
+  * [Gestion de serveur](Reference/Server.md) — Commandes serveur et information de configuration
+  * [Formats de fichier](Reference/File_Formats.md) — Documentation pour les formats de fichier CraftStudio
+  * [Export de modèles](Reference/Model_Export.md) — Exporter des modèles pour les utiliser dans d'autres outils ou jeux 3D
 
 ----
 
 # Ressources additionnelles
-
-## Information sur le développement
-
-  * [Feuille de route](https://trello.com/b/Rh6NGPUD/worlds) — Fonctionnalités majeures prévues pour de futures mises à jour
-  * [Rediff des livestreams hebdomadaires](http://www.youtube.com/playlist?list=PLFfqb4QVmIGrFh0V8_TkxSlqsZ7lvedAg)
 
 ## Tutoriels vidéo
 
@@ -67,5 +62,5 @@ Si vous souhaitez proposer des modifications majeures ou si vous avez des commen
 
 ## Divers
 
-  * [Utiliser CraftStudio pour modder Minecraft](Minecraft)
+  * [Utiliser CraftStudio pour modder Minecraft](Minecraft.md)
   * [Daneel framework](https://github.com/florentpoujol/Daneel) — Un framework Lua pour CraftStudio pour "simplifier et raccourcir le code que vous écrirez"

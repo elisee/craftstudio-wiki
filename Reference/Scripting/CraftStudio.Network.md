@@ -5,7 +5,7 @@
 
 Networking lets you make your games work over the Internet so that they can be played together by multiple players. Although made as simple as possible, networking will likely affect most aspects of your game so it's best to build it in along with your game rather than as an afterthought.
 
-See also [the NetworkSync component documentation](NetworkSync).
+See also [the NetworkSync component documentation](NetworkSync.md).
 
 ----
 ##Technical details

@@ -10,7 +10,7 @@ Nous allons réaliser un jeu de tir à la première personne basique, en mettant
 ----
 ## Verrouillage de la souris à l'intérieur de la fenêtre de jeu
 
-Pour permettre au joueur d'orienter la vue avec la souris, on va commencer par masquer et verrouiller le pointeur de la souris avec [```CS.Input.LockMouse()```](../Reference/Scripting/CraftStudio.Input). On permettra au joueur de déverrouiller en appuyant sur Echap avec ```CS.Input.UnlockMouse()``` couplé avec la fonction ```CS.Input.WasButtonJustPressed()```.
+Pour permettre au joueur d'orienter la vue avec la souris, on va commencer par masquer et verrouiller le pointeur de la souris avec [```CS.Input.LockMouse()```](../Reference/Scripting/CraftStudio.Input.md). On permettra au joueur de déverrouiller en appuyant sur Echap avec ```CS.Input.UnlockMouse()``` couplé avec la fonction ```CS.Input.WasButtonJustPressed()```.
 
 ```lua
 -- Script version 1 : Verrouiller & déverrouiller la souris
@@ -32,7 +32,7 @@ Ce script doit être placé sur l'objet de jeu de votre caméra.
 ----
 ## Regarder autour de soi
 
-Nous pouvons utiliser les valeurs renvoyées par [```CS.Input.GetMouseDelta()```](../Reference/Scripting/CraftStudio.Input) pour ajuster la rotation de la caméra.
+Nous pouvons utiliser les valeurs renvoyées par [```CS.Input.GetMouseDelta()```](../Reference/Scripting/CraftStudio.Input.md) pour ajuster la rotation de la caméra.
 
 On maintiendra la rotation autour de l'axe X (pour regarder en haut/bas) dans une zone raisonnable pour empêcher la caméra de faire un tour complet avec ```math.clamp( value, min, max )```.
 

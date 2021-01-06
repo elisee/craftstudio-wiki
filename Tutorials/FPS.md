@@ -3,16 +3,16 @@
 ----
 ## What's in this tutorial
 
-This tutorial assumes you already know how CraftStudio works overall. If this is your first game, consider [checking out the introduction](Introduction) and [starting with a more beginner-oriented tutorial](Space_shooter).
+This tutorial assumes you already know how CraftStudio works overall. If this is your first game, consider [checking out the introduction](Introduction.md  ) and [starting with a more beginner-oriented tutorial](Space_shooter.md).
 
-If you're not familiar with Lua, the textual scripting language used in CraftStudio, the [Scripting Reference](../Reference/Scripting) has a couple links to good starting tutorials!
+If you're not familiar with Lua, the textual scripting language used in CraftStudio, the [Scripting Reference](../Reference/Scripting.md) has a couple links to good starting tutorials!
 
 We'll be building a generic single-player first-person shooter, mostly focusing on writing the player control script.
 
 ----
 ## Locking the mouse inside the game window
 
-To allow the player to look around with the mouse, we'll first want to hide and lock the mouse pointer with [```CS.Input.LockMouse()```](../Reference/Scripting/CraftStudio.Input). We can unlock it when the player presses the escape key using ```CS.Input.UnlockMouse()``` coupled with a chcek on ```CS.Input.WasButtonJustPressed()```.
+To allow the player to look around with the mouse, we'll first want to hide and lock the mouse pointer with [```CS.Input.LockMouse()```](../Reference/Scripting/CraftStudio.Input.md). We can unlock it when the player presses the escape key using ```CS.Input.UnlockMouse()``` coupled with a chcek on ```CS.Input.WasButtonJustPressed()```.
 
 ```lua
 -- Script version 1: Locking & unlocking the mouse
@@ -34,7 +34,7 @@ This script should be placed on your main camera game object.
 ----
 ## Looking around
 
-We can use the values returned by [```CS.Input.GetMouseDelta()```](../Reference/Scripting/CraftStudio.Input) to adjust the camera's rotation.
+We can use the values returned by [```CS.Input.GetMouseDelta()```](../Reference/Scripting/CraftStudio.Input.md) to adjust the camera's rotation.
 
 We'll want to lock the rotation around the X axis (for looking up/down) to a reasonable range to prevent the camera from making a full turn. This can be achieved by clamping the value with ```math.clamp( value, min, max )```.
 

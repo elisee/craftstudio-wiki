@@ -18,37 +18,32 @@ If you want to propose major changes or have comments, please [start a thread on
 
 ## Getting started
 
-  * [Getting started with CraftStudio](Tutorials/Introduction) — Get familiar with how CraftStudio works and create your first project
-  * [Publishing your CraftStudio game](Tutorials/Publishing) — Export & upload your games for others to play
+  * [Getting started with CraftStudio](Tutorials/Introduction.md) — Get familiar with how CraftStudio works and create your first project
+  * [Publishing your CraftStudio game](Tutorials/Publishing.md) — Export & upload your games for others to play
 
 ## Visual scripting
 
-  * [Building a space shooter](Tutorials/Space_shooter) — Make your first game while learning about models, movement and scripting, sound effects and more
+  * [Building a space shooter](Tutorials/Space_shooter.md) — Make your first game while learning about models, movement and scripting, sound effects and more
 
 ## Lua scripting
 
-  * [Building a first-person shooter](Tutorials/FPS) — Looking around with the mouse, casting rays to shoot things
-  * [Building a multiplayer Bomberman-like](Tutorials/Blast_Turtles) — Craft your first networked multiplayer game
+  * [Building a first-person shooter](Tutorials/FPS.md) — Looking around with the mouse, casting rays to shoot things
+  * [Building a multiplayer Bomberman-like](Tutorials/Blast_Turtles.md) — Craft your first networked multiplayer game
 
 ----
 
 # Reference
 
-  * [Glossary](Reference/Glossary) — Definitions for various words used throughout CraftStudio
-  * **[Scripting Reference](Reference/Scripting)** — Documentation for all Lua scripting functions
-  * [Engine overview](Reference/Engine) — Game loop & other info about the inner workings of CraftStudio
-  * [Server management](Reference/Server) — Server commands & setup information
-  * [File Formats](Reference/File_Formats) — Documentation for CraftStudio file formats
-  * [Exporting OBJ and JSON models](Reference/Model_Export) — Exporting cubic models from CraftStudio to other software including 3D modellers or games
+  * [Glossary](Reference/Glossary.md) — Definitions for various words used throughout CraftStudio
+  * **[Scripting Reference](Reference/Scripting.md)** — Documentation for all Lua scripting functions
+  * [Engine overview](Reference/Engine.md) — Game loop & other info about the inner workings of CraftStudio
+  * [Server management](Reference/Server.md) — Server commands & setup information
+  * [File Formats](Reference/File_Formats.md) — Documentation for CraftStudio file formats
+  * [Exporting OBJ and JSON models](Reference/Model_Export.md) — Exporting cubic models from CraftStudio to other software including 3D modellers or games
 
 ----
 
 # Additional resources
-
-## Development information
-
-  * [Roadmap](Roadmap) — Improvements planned for future updates
-  * [Sparklin Labs' blog](http://blog.sparklinlabs.com/)
 
 ## Video tutorials
 
@@ -57,5 +52,5 @@ If you want to propose major changes or have comments, please [start a thread on
 
 ## Miscellaneous
  
-  * [Using CraftStudio for modding Minecraft](Minecraft)
+  * [Using CraftStudio for modding Minecraft](Minecraft.md)
   * [Daneel framework](https://github.com/florentpoujol/Daneel) — A Lua framework for CraftStudio that aims to "sweeten and shorten the code you write"

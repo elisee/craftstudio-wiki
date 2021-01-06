@@ -3,7 +3,7 @@
 ----
 Sound assets let you play sound effects. You can create and upload sounds in your project and then play them back in scripting.
 
-You can get a Sound asset by using [CraftStudio.FindAsset](http://wiki.craftstud.io/Reference/Scripting/CraftStudio)
+You can get a Sound asset by using [CraftStudio.FindAsset](CraftStudio.md)
 
 There are two ways to play sounds: Either directly by using the Sound asset (which doesn't give you much control but is good for one-shot effects) or by creating a ```SoundInstance``` (which lets you pause / stop / resume / loop / set parameters while playing).
 

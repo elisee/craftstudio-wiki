@@ -22,7 +22,7 @@ When you create a new project, you can decide who can access it by choosing betw
  * **Anyone can join without approval**: This one allows new people to join without asking for permission. It is recommended to only use it with **Spectator** as the default member role.
  * **Invite-only**: For anyone to join, you'll need to invite them through the Administration tab (not yet implemented)
 
-For more details about managing servers and projects see the [Server Reference](../Reference/Server).
+For more details about managing servers and projects see the [Server Reference](../Reference/Server.md).
 
 ----
 
@@ -54,4 +54,4 @@ You're good to go! To open up your newly created project, just click on it in yo
 
 ![Open your project](../public/images/OpenMyFirstGame.png)
 
-Let's get started on [building a space shooter](Space_shooter), shall we?
+Let's get started on [building a space shooter](Space_shooter.md), shall we?

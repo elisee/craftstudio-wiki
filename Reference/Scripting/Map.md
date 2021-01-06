@@ -66,7 +66,7 @@ Map:GetPathInPackage()
 
 ----
 ## Map.LoadFromPackage
-```LoadFromPackage``` loads a new copy of the map asset at the specified path. It's useful if you want to load a map from its original, saved state. You can destroy the new map later on by calling [CraftStudio.Destroy](CraftStudio) on it.
+```LoadFromPackage``` loads a new copy of the map asset at the specified path. It's useful if you want to load a map from its original, saved state. You can destroy the new map later on by calling [CraftStudio.Destroy](CraftStudio.md) on it.
 
 Loading data from the game package might involve downloading or disk access so it is an asynchronous operation: once the asset is ready, the specified function will be called back with the new asset as its only parameter.
 

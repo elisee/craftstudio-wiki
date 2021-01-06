@@ -56,7 +56,7 @@ Sends a message to the server with the specified data.
 
 See at the top of the page for info about delivery methods & channels.
 
-In order to be able to receive a message, the corresponding [message handler must have been registered first](CraftStudio.Network).
+In order to be able to receive a message, the corresponding [message handler must have been registered first](CraftStudio.Network.md).
 
 This is a **client-side** function.
 
@@ -71,6 +71,6 @@ Sends a message to the specified players (or all of them if no list is specified
 See at the top of the page for info about delivery methods & channels.
 
 In order to be able to receive a message, the corresponding 
-[message handler must have been registered first](CraftStudio.Network).
+[message handler must have been registered first](CraftStudio.Network.md).
 
 This is a **server-side** function.

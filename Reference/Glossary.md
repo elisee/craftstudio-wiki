@@ -8,7 +8,7 @@ Definitions for various words used throughout CraftStudio
 
 The CraftStudio **server** is a piece of software that you can run on a computer to serve projects. When you start CraftStudio, a server for your own projects will automatically start on your local machine (unless you disable the auto-start in the Settings).
 
-When you want to make a new game, [you create a new project on a server](../Tutorials/Introduction). A **project** has, among other things, a name, description, type (game or movie), whiteboard, members and assets.
+When you want to make a new game, [you create a new project on a server](../Tutorials/Introduction.md). A **project** has, among other things, a name, description, type (game or movie), whiteboard, members and assets.
 
 **Assets** are models (characters / objects made of blocks), animations, maps, block sets, scenes, scripts, sounds or fonts.
 

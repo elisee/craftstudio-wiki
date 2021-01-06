@@ -22,7 +22,7 @@ Quand vous créez un nouveau projet, vous pouvez décider de qui peut y avoir ac
  * **N'importe qui peut rejoindre librement** : Celui-ci permet aux gens de rejoindre votre projet sans demander d'autorisation. Il est recommandé de ne l'utiliser qu'avec un rôle par défaut défini sur **Spectateur**.
  * **Sur invitation** : Pour que quelqu'un puisse rejoindre, vous allez devoir l'inviter depuis l'onglet Administration (pas encore implémenté)
 
-Pour plus de détails sur la gestion des serveurs et projets, lisez la [Référence du Serveur](../Reference/Server).
+Pour plus de détails sur la gestion des serveurs et projets, lisez la [Référence du Serveur](../Reference/Server.md).
 
 ----
 
@@ -54,4 +54,4 @@ Tout est prêt ! Pour ouvrir votre nouveau projet, cliquez dessus depuis la list
 
 ![Ouvrir votre projet](../public/images/OpenMyFirstGame.png)
 
-Et si nous commencions par [créer un space shooter](Space_shooter) ?
+Et si nous commencions par [créer un space shooter](Space_shooter.md) ?

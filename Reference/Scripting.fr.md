@@ -15,31 +15,31 @@ Les scripts CraftStudio sont rédigés en [Lua](http://www.lua.org/about.html), 
 ----
 ## Version de l'API de script
 
-Occasionellement, de nouvelles versions de CraftStudio peuvent empêcher certains scripts de fonctionner sur les anciens projets. Si une telle chose vient à arriver, les changements sont documentés dans la page des [Versions d'API](Scripting/API_Versioning).
+Occasionellement, de nouvelles versions de CraftStudio peuvent empêcher certains scripts de fonctionner sur les anciens projets. Si une telle chose vient à arriver, les changements sont documentés dans la page des [Versions d'API](Scripting/API_Versioning.md).
 
 ----
 ## Fonctions globales et constantes de CraftStudio
 
-[CraftStudio](Scripting/CraftStudio), [Input](Scripting/CraftStudio.Input), [Storage](Scripting/CraftStudio.Storage), [Screen](Scripting/CraftStudio.Screen), [Audio](Scripting/CraftStudio.Audio), [Physics](Scripting/CraftStudio.Physics), [Network](Scripting/CraftStudio.Network), [Web](Scripting/CraftStudio.Web)
+[CraftStudio](Scripting/CraftStudio.md), [Input](Scripting/CraftStudio.Input.md), [Storage](Scripting/CraftStudio.Storage.md), [Screen](Scripting/CraftStudio.Screen.md), [Audio](Scripting/CraftStudio.Audio.md), [Physics](Scripting/CraftStudio.Physics.md), [Network](Scripting/CraftStudio.Network.md), [Web](Scripting/CraftStudio.Web.md)
 
 ----
 ## Manipuler les objets de jeu (*game objects*)
 
-  * [GameObject](Scripting/GameObject) lui-même
+  * [GameObject](Scripting/GameObject.md) lui-même
   * Composants :
-    * [Transform](Scripting/Transform) — Position, orientation & échelle
-    * [Camera](Scripting/Camera) — Caméra
-    * [ModelRenderer](Scripting/ModelRenderer), [MapRenderer](Scripting/MapRenderer), [TextRenderer](Scripting/TextRenderer) — Rendu de modèle, de map et de texte
-    * [ScriptedBehavior](Scripting/ScriptedBehavior) — Comportement scripté
-    * [Physics](Scripting/Physics) — Physique
-    * [NetworkSync](Scripting/NetworkSync) — Réseau
+    * [Transform](Scripting/Transform.md) — Position, orientation & échelle
+    * [Camera](Scripting/Camera.md) — Caméra
+    * [ModelRenderer](Scripting/ModelRenderer.md), [MapRenderer](Scripting/MapRenderer.md), [TextRenderer](Scripting/TextRenderer.md) — Rendu de modèle, de map et de texte
+    * [ScriptedBehavior](Scripting/ScriptedBehavior.md) — Comportement scripté
+    * [Physics](Scripting/Physics.md) — Physique
+    * [NetworkSync](Scripting/NetworkSync.md) — Réseau
 
 ----
 ## Ressources
 
-[Map](Scripting/Map), [TileSet](Scripting/TileSet), [Sound](Scripting/Sound)
+[Map](Scripting/Map.md), [TileSet](Scripting/TileSet.md), [Sound](Scripting/Sound.md)
 
 ----
 ## Math
 
-[Vector3](Scripting/Math/Vector3), [Quaternion](Scripting/Math/Quaternion), [Ray](Scripting/Math/Ray), [Plane](Scripting/Math/Plane) et [diverses fonctions mathématiques](Scripting/Math/Misc)
+[Vector3](Scripting/Math/Vector3.md), [Quaternion](Scripting/Math/Quaternion.md), [Ray](Scripting/Math/Ray.md), [Plane](Scripting/Math/Plane.md) et [diverses fonctions mathématiques](Scripting/Math/Misc.md)

@@ -3,7 +3,7 @@
 ----
 ## What's in this tutorial
 
-This tutorial is for beginners, it doesn't assume you know much about CraftStudio at all. Make sure you start [by creating your first project](Introduction).
+This tutorial is for beginners, it doesn't assume you know much about CraftStudio at all. Make sure you start [by creating your first project](Introduction.md).
 
 We'll be building a simple top-down space shooting game using visual scripting.
 
@@ -371,7 +371,7 @@ We'll add a check in our "Laser Behavior" script and destroy the laser when it's
 
 ![DestroyLaser.png](https://bitbucket.org/repo/ey9q4X/images/1818129109-DestroyLaser.png)
 
-We're storing our object's position in a [local variable](http://learn.craftstud.io/Reference/Glossary) so that we can access its .z [property](http://learn.craftstud.io/Reference/Glossary). We use the comparison block from the "Flow" category to test if the position on the Z axis is less than -60 (you might need a different value depending on how you set up your camera angles) and only then do we destroy the laser.
+We're storing our object's position in a [local variable](../Reference/Glossary.md) so that we can access its .z [property](../Reference/Glossary.md). We use the comparison block from the "Flow" category to test if the position on the Z axis is less than -60 (you might need a different value depending on how you set up your camera angles) and only then do we destroy the laser.
 
 ----
 ## Enemy spaceship & prefab

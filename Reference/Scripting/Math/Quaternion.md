@@ -1,6 +1,6 @@
 # Quaternion
 
-Quaternions are mathematical objects useful for representing and interpolating game object orientations & rotations. Most of the time, you'll come across quaternions when using functions like [```Transform:GetOrientation```](../Transform).
+Quaternions are mathematical objects useful for representing and interpolating game object orientations & rotations. Most of the time, you'll come across quaternions when using functions like [```Transform:GetOrientation```](../Transform.md).
 
 A quaternion is made of 4 components (X, Y, Z and W) but those components can't be made sense of easily and you shouldn't try to modify them directly. It's best to think of quaternions as "black boxes" like matrices rather than vectors.
 
