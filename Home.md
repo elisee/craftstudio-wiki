@@ -38,7 +38,7 @@ If you want to propose major changes or have comments, please [start a thread on
   * **[Scripting Reference](Reference/Scripting.md)** — Documentation for all Lua scripting functions
   * [Engine overview](Reference/Engine.md) — Game loop & other info about the inner workings of CraftStudio
   * [Server management](Reference/Server.md) — Server commands & setup information
-  * [File Formats](Reference/File_Formats.md) — Documentation for CraftStudio file formats
+  * [File formats](Reference/File_formats.md) — Documentation for CraftStudio file formats
   * [Exporting OBJ and JSON models](Reference/Model_Export.md) — Exporting cubic models from CraftStudio to other software including 3D modellers or games
 
 ----
