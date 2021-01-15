@@ -38,7 +38,7 @@
   * **[Справка по программированию](Reference/Scripting.md)** — Документация по всем функциям Lua
   * [Обзор движка](Reference/Engine.md) — Игровой цикл & другая информация о внутренней работе CraftStudio
   * [Управление сервером](Reference/Server.md) — Команды сервера & информация по установке
-  * [Формат файлов](Reference/File_Formats.md) — Документация по форматам файлов CraftStudio
+  * [Формат файлов](Reference/File_formats.md) — Документация по форматам файлов CraftStudio
 
 ----
 
