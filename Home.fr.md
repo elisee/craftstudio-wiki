@@ -39,7 +39,7 @@ Si vous souhaitez proposer des modifications majeures ou si vous avez des commen
   * [Référence Scripting Visuel](Reference/Visual_Scripting.md) — Documentation consacrée au scripting visuel
   * [Vue d'ensemble du moteur](Reference/Engine.md) — Boucle de jeu et autres informations sur le fonctionnement interne de CraftStudio
   * [Gestion de serveur](Reference/Server.md) — Commandes serveur et information de configuration
-  * [Formats de fichier](Reference/File_Formats.md) — Documentation pour les formats de fichier CraftStudio
+  * [Formats de fichier](Reference/File_formats.md) — Documentation pour les formats de fichier CraftStudio
   * [Export de modèles](Reference/Model_Export.md) — Exporter des modèles pour les utiliser dans d'autres outils ou jeux 3D
 
 ----
