@@ -10,7 +10,7 @@ You can download the free demo version at [craftstud.io](http://craftstud.io/) -
 
 You are welcome to edit this wiki to make it more complete or accurate. Please make sure to follow the same writing style as existing pages. By contributing, you agree to license your changes under the [Creative Commons BY-SA 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/).
 
-If you want to propose major changes or have comments, please [start a thread on the forums](http://craftstudioforums.net/index.php?forums/discussions.16/create-thread).
+If you want to propose major changes or have comments, please [open an issue on GitHub](https://github.com/elisee/craftstudio-wiki/issues).
 
 ----
 

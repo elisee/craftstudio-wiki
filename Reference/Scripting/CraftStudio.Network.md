@@ -1,19 +1,19 @@
 # CraftStudio.Network API
 
 ----
-##Network play in CraftStudio
+## Network play in CraftStudio
 
 Networking lets you make your games work over the Internet so that they can be played together by multiple players. Although made as simple as possible, networking will likely affect most aspects of your game so it's best to build it in along with your game rather than as an afterthought.
 
 See also [the NetworkSync component documentation](NetworkSync.md).
 
 ----
-##Technical details
+## Technical details
 
 Networking in CraftStudio uses the UDP protocol for communication.
 
 ----
-##CraftStudio.Network.Server.Start
+## CraftStudio.Network.Server.Start
 ```lua
 CS.Network.Server.Start( --[[ port (number, defaults to CS.Network.DefaultPort) ]] )
 ```
@@ -25,7 +25,7 @@ You'll need to manually connect to your server locally with ```CS.Network.Connec
 This is a **server-side** function.
 
 ----
-##CraftStudio.Network.Server.Stop
+## CraftStudio.Network.Server.Stop
 ```lua
 CS.Network.Server.Stop()
 ```

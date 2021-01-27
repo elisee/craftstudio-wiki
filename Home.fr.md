@@ -10,7 +10,7 @@ Vous pouvez télécharger la démo gratuite sur [craftstud.io](http://craftstud.
 
 Vos contributions sont les bienvenues pour améliorer ce wiki et le rendre plus complet. Veillez à suivre le style d'écriture des pages existantes. En contributant, vous acceptez de placer vos modifications sous la [licence Creative Commons BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Si vous souhaitez proposer des modifications majeures ou si vous avez des commentaires, veuillez [créer un sujet sur les forums](http://www.craftstudio.fr/forum/posting.php?mode=post&f=8).
+Si vous souhaitez proposer des modifications majeures ou si vous avez des commentaires, veuillez [ouvrir un problème sur GitHub](https://github.com/elisee/craftstudio-wiki/issues).
 
 ----
 
