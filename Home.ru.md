@@ -18,7 +18,7 @@
 
 ## Начало работы
 
-  * [Начало в CraftStudio](Tutorials/Introduction.md) — Познакомитесь с тем как CraftStudio работает и создайте свой первый проект
+  * [Начало в CraftStudio](Tutorials/Introduction.ru.md) — Познакомитесь с тем как CraftStudio работает и создайте свой первый проект
   * [Публикование вашей CraftStudio игры](Tutorials/Publishing.md) — Отправьте вашу игру, чтобы в нее могли играть другие
 
 ## Визуальное программирование

@@ -20,7 +20,7 @@ Occasionellement, de nouvelles versions de CraftStudio peuvent empêcher certain
 ----
 ## Fonctions globales et constantes de CraftStudio
 
-[CraftStudio](Scripting/CraftStudio.md), [Input](Scripting/CraftStudio.Input.md), [Storage](Scripting/CraftStudio.Storage.md), [Screen](Scripting/CraftStudio.Screen.md), [Audio](Scripting/CraftStudio.Audio.md), [Physics](Scripting/CraftStudio.Physics.md), [Network](Scripting/CraftStudio.Network.md), [Web](Scripting/CraftStudio.Web.md)
+[CraftStudio](Scripting/CraftStudio.fr.md), [Input](Scripting/CraftStudio.Input.fr.md), [Storage](Scripting/CraftStudio.Storage.fr.md), [Screen](Scripting/CraftStudio.Screen.md), [Audio](Scripting/CraftStudio.Audio.md), [Physics](Scripting/CraftStudio.Physics.md), [Network](Scripting/CraftStudio.Network.md), [Web](Scripting/CraftStudio.Web.md)
 
 ----
 ## Manipuler les objets de jeu (*game objects*)
