@@ -123,7 +123,7 @@ Vector3.Cross( --[[ a (Vector3) ]], --[[ b (Vector3) ]] )
 Returns the cross product of vectors a and b.
 
 ----
-##Vector3.Angle
+## Vector3.Angle
 ```lua
 -- Returns the angle as number
 Vector3.Angle( --[[ a (Vector3) ]], --[[ b (Vector3) ]] )
@@ -132,7 +132,7 @@ Vector3.Angle( --[[ a (Vector3) ]], --[[ b (Vector3) ]] )
 Returns the angle in radians between the two vectors a and b.
 
 ----
-##Vector3.Distance
+## Vector3.Distance
 
 ```lua
 -- Returns the distance as number
@@ -170,7 +170,7 @@ Returns a new vector whose components are equal to each component of the first v
 Returns a new vector whose components are equal to each component of the second vector added to those of the first vector.
 
 ----
-##Vector3 - Vector3
+## Vector3 - Vector3
 Returns a new vector whose components are equal to each component of the second vector subtracted from those of the first vector.
 
 ----
