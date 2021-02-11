@@ -3,7 +3,7 @@
 ----
 ## Contenu du tutoriel
 
-Ce tutoriel suppose que vous savez déjà comment fonctionne CraftStudio. Si c'est votre premier jeu, allez plutôt lire [l'introduction](Introduction) et [commencez par un tutoriel pour les débutants](Space_shooter).
+Ce tutoriel suppose que vous savez déjà comment fonctionne CraftStudio. Si c'est votre premier jeu, allez plutôt lire [l'introduction](Introduction.fr.md) et [commencez par un tutoriel pour les débutants](Space_shooter.md).
 
 Nous allons réaliser un jeu de tir à la première personne basique, en mettant l'accent sur l'écriture de script du contrôle du joueur.
 
@@ -32,7 +32,7 @@ Ce script doit être placé sur l'objet de jeu de votre caméra.
 ----
 ## Regarder autour de soi
 
-Nous pouvons utiliser les valeurs renvoyées par [```CS.Input.GetMouseDelta()```](../Reference/Scripting/CraftStudio.Input.md) pour ajuster la rotation de la caméra.
+Nous pouvons utiliser les valeurs renvoyées par [```CS.Input.GetMouseDelta()```](../Reference/Scripting/CraftStudio.Input.fr.md) pour ajuster la rotation de la caméra.
 
 On maintiendra la rotation autour de l'axe X (pour regarder en haut/bas) dans une zone raisonnable pour empêcher la caméra de faire un tour complet avec ```math.clamp( value, min, max )```.
 

@@ -48,14 +48,14 @@ Quaternion:SqrLength()
 Returns the magnitude (or the square of the magnitude) of the specified quaternion
 
 ----
-##Quaternion * Quaternion
+## Quaternion * Quaternion
 
 Returns a new quaternion, result of the composition of the two specified quaternions
 
 Note that order matters, A * B isn't equivalent to B * A for quaternions.
 
 ----
-##Quaternion.Slerp
+## Quaternion.Slerp
 
 ```lua
 ​Quaternion.Slerp( --[[ a (Quaternion) ]], --[[ b (Quaternion) ]], amount (Number) )

@@ -9,20 +9,22 @@ All the blocks and features made available by CraftStudio for your visual script
 
 Event blocks are the root blocks of your script. They contain your logic for reacting to various lifecycle events during your game.
 
- * [Events](Visual_Scripting/Events.md) — Event blocks called automatically while your game is running
- * [Messages](Visual_Scripting/Messages.md) — Define message handlers and send messages to communicate between scripts
+ * [Events](Visual_Scripting/Events.fr.md) — Event blocks called automatically while your game is running
+ * [Messages](Visual_Scripting/Messages.fr.md) — Define message handlers and send messages to communicate between scripts
 
 ----
 ## Flow
 
 Blocks for controlling your script's flow: conditions, loops and comparing stuff.
 
+ * [Control](Visual_Scripting/Controls.fr.md) — Condition or loop blocks
+
 ----
 ## Variables
 
 Get, store and change values and properties.
 
-The concept of a variable is explaind in the [Glossary](Glossary.md).
+The concept of a variable is explained in the [Glossary](Glossary.md).
 
 ----
 ## Math

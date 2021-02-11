@@ -17,7 +17,7 @@ math.round( --[[ value (Number) ]] )
 Returns the specified number respectively rounded down, rounded up or rounded to the nearest integer.
 
 ----
-##math.clamp
+## math.clamp
 
 ```lua
 -- Returns Number

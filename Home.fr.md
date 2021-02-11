@@ -10,7 +10,7 @@ Vous pouvez télécharger la démo gratuite sur [craftstud.io](http://craftstud.
 
 Vos contributions sont les bienvenues pour améliorer ce wiki et le rendre plus complet. Veillez à suivre le style d'écriture des pages existantes. En contributant, vous acceptez de placer vos modifications sous la [licence Creative Commons BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Si vous souhaitez proposer des modifications majeures ou si vous avez des commentaires, veuillez [créer un sujet sur les forums](http://www.craftstudio.fr/forum/posting.php?mode=post&f=8).
+Si vous souhaitez proposer des modifications majeures ou si vous avez des commentaires, veuillez [ouvrir un problème sur GitHub](https://github.com/elisee/craftstudio-wiki/issues).
 
 ----
 
@@ -18,7 +18,7 @@ Si vous souhaitez proposer des modifications majeures ou si vous avez des commen
 
 ## Pour débuter
 
-  * [Bien débuter avec CraftStudio](Tutorials/Introduction.md) — Familiarisez-vous avec le fonctionnement de CraftStudio et créez votre premier projet
+  * [Bien débuter avec CraftStudio](Tutorials/Introduction.fr.md) — Familiarisez-vous avec le fonctionnement de CraftStudio et créez votre premier projet
   * [Publier votre jeu CraftStudio](Tutorials/Publishing.md) — Exportez & uploadez vos jeux pour que le monde y joue
 
 ## Scripting visuel
@@ -27,17 +27,17 @@ Si vous souhaitez proposer des modifications majeures ou si vous avez des commen
 
 ## Scripting Lua
 
-  * [Créer un jeu de tir à la première personne](Tutorials/FPS.md) — Orienter la vue avec la souris, lancer des rayons pour toucher des objets
-  * [Créer un jeu multijoueur à la Bomberman](Tutorials/Blast_Turtles.md) — Craftez votre premier jeu multijoueur en ligne
+  * [Créer un jeu de tir à la première personne](Tutorials/FPS.fr.md) — Orienter la vue avec la souris, lancer des rayons pour toucher des objets
+  * [Créer un jeu multijoueur à la Bomberman](Tutorials/Blast_Turtles.fr.md) — Craftez votre premier jeu multijoueur en ligne
 
 ----
 
 # Référence
 
-  * [Glossaire](Reference/Glossary.md) — Définitions de différents mots rencontrés dans CraftStudio
-  * **[Référence Scripting](Reference/Scripting.md)** — Documentation pour tous les blocs et fonctions de scripting
-  * [Référence Scripting Visuel](Reference/Visual_Scripting.md) — Documentation consacrée au scripting visuel
-  * [Vue d'ensemble du moteur](Reference/Engine.md) — Boucle de jeu et autres informations sur le fonctionnement interne de CraftStudio
+  * [Glossaire](Reference/Glossary.fr.md) — Définitions de différents mots rencontrés dans CraftStudio
+  * **[Référence Scripting](Reference/Scripting.fr.md)** — Documentation pour tous les blocs et fonctions de scripting
+  * [Référence Scripting Visuel](Reference/Visual_Scripting.fr.md) — Documentation consacrée au scripting visuel
+  * [Vue d'ensemble du moteur](Reference/Engine.fr.md) — Boucle de jeu et autres informations sur le fonctionnement interne de CraftStudio
   * [Gestion de serveur](Reference/Server.md) — Commandes serveur et information de configuration
   * [Formats de fichier](Reference/File_formats.md) — Documentation pour les formats de fichier CraftStudio
   * [Export de modèles](Reference/Model_Export.md) — Exporter des modèles pour les utiliser dans d'autres outils ou jeux 3D

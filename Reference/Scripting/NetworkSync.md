@@ -2,7 +2,6 @@
 
 ----
 ## Message delivery methods & channels
-**WARNING: Custom delivery methods & channels are an experimental feature that might (and likely will) change in the future. If you use them, expect to have to make code changes later.**
 
 When sending a message, you can optionally specify the delivery method and channel. This might help reduce network load and make your game feel more reactive.
 

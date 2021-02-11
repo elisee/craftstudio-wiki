@@ -1,7 +1,7 @@
 # CraftStudio.Sound API
 
 ----
-##CraftStudio.Audio.SetMasterVolume, CraftStudio.Audio.GetMasterVolume
+## CraftStudio.Audio.SetMasterVolume, CraftStudio.Audio.GetMasterVolume
 ```lua
 -- Returns master Volume as number
 CraftStudio.Audio.GetMasterVolume()
